@@ -3,7 +3,7 @@
 **Google Gemini Desktop** is a native app for Google Gemini on Windows, macOS, and Linux. Access Gemini 3.5 Pro and 3.6 Flash with Gems, Extensions, Google Search grounding, multimodal input, and Deep Research mode, faster and cleaner than any browser tab. Free alternative to ChatGPT Plus desktop, Claude desktop app.
 
 
-<img width="500" height="500" alt="images1" src="https://github.com/user-attachments/assets/cd556f57-8cb6-4f83-bb54-7ff4f93c236f" />
+<img width="200" height="200" alt="images1" src="https://github.com/user-attachments/assets/cd556f57-8cb6-4f83-bb54-7ff4f93c236f" />
 
 
 
